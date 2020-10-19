@@ -11,6 +11,13 @@ When one of my family members was diagnosed with tree nut allergies, I recognize
 - Java, Python
 - App development using [Google Appsheet](https://appsheet.com)
 
+### Parking App
+**_Github URL_**: [https://github.com/sathvik4142/ParkingApp](https://github.com/sathvik4142/ParkingApp)
+
+### Instagram Bot Detector
+**_Github URL_**: [https://github.com/sathvik4142/InstagramBotDetector](https://github.com/sathvik4142/InstagramBotDetector)
+
+
 ## _A Little More About Me_
 Alongside my interests in mathematics and computer science, some of my other interests are:
 - Reading
