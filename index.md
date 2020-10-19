@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Sathvik Rajasekaran
+
+### _About Me_
+
+My name is Sathvik and I am a senior at Lynbrook High School.
+
+### _Projects_
+
+### _A Little More About Me_
+Alongside my interests in mathematics and computer science, some of my other interests and hobbies are:
+- Reading
+- Gaming
+- Chess
+
 
 You can use the [editor on GitHub](https://github.com/sathvik4142/sathvik.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
