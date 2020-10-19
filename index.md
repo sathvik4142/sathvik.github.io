@@ -1,4 +1,3 @@
-# Sathvik Rajasekaran
 ### _About Me_
 My name is Sathvik and I am a senior at [Lynbrook High School](https://lhs.fuhsd.org).
 
